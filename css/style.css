@@ -1,0 +1,26 @@
+body{
+    background-image: url(../source/fondo.avif);
+}
+
+.wrapper {
+    margin:auto;
+    width: 90vw;
+    min-height: 100vh;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 60px;
+    color: rgba(26, 255, 0, 0.882);
+}
+
+.card {
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.card-image {
+    width: 100%;
+}
