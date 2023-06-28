@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(195, 231, 235);
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    border: double 10px #000000;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 60px;
+    background-color: rgb(141, 182, 218);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+a {
+    color: aliceblue;
+    float: inline-end;
+}
+
+.image {
+    object-fit: cover;
+    border-radius: 8px;
+    height: 400px;
+    margin: 0 25px;
+}
+
+.centrar {
+    background-color: bisque;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+}
+
+.clear {
+    clear: both;
+}
